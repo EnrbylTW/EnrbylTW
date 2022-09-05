@@ -6,6 +6,8 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=EnrbylTW&theme=darkhub)
 
+<h3>Top of my language's</h3>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnrbylTW&layout=compact&theme=github_dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnrbylTW&show_icons=true&theme=github_dark)
