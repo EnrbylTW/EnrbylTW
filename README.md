@@ -1,8 +1,5 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/vbncursed" target="_blank">Edvard</a> 
+<h1 align="center">Hi 👋, I'm <a href="https://t.me/vbncursed" target="_blank">Edvard</a></h1>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">UTMN student, IT developer from Russia 🇷🇺</h3>
-
-<h1 align="center">Hi 👋, I'm Edvard</h1>
 <h3 align="center">UTMN student, IT developer from Russia 🇷🇺</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enrbyltw&label=Profile%20views&color=0e75b6&style=flat" alt="enrbyltw" /> </p>
