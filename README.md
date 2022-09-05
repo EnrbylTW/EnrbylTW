@@ -4,9 +4,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=UTMN+STUDENT" alt="Typing SVG" /></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EnrbylTW&theme=darkhub)
+![trophy](https://github-profile-trophy.vercel.app/?username=EnrbylTW&theme=darkhub)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnrbylTW&layout=compact&theme=github_dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnrbylTW&layout=compact&theme=github_dark)]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnrbylTW&show_icons=true&theme=github_dark)
 
