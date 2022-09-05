@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm <a href="https://t.me/vbncursed">Edvard</a></h1>
 <h3 align="center">UTMN student, IT developer from Russia 🇷🇺</h3>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=UTMN+STUDENT" alt="Typing SVG" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enrbyltw&label=Profile%20views&color=0e75b6&style=flat" alt="enrbyltw" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enrbyltw&theme=darkhub" alt="enrbyltw" /></a> </p>
