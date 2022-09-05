@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://t.me/vbncursed" target="_blank">Edvard</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://t.me/vbncursed">Edvard</a></h1>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">UTMN student, IT developer from Russia 🇷🇺</h3>
 
