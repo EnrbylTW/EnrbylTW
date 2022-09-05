@@ -6,7 +6,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=EnrbylTW&theme=darkhub)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnrbylTW&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnrbylTW&layout=compact&theme=github_dark)]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnrbylTW&show_icons=true&theme=github_dark)
 
