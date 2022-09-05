@@ -2,7 +2,12 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&pause=1000&center=true&width=435&lines=Computer+science+student" alt="Typing SVG" /></a>
+
+
+
+
+
 <!--
 **EnrbylTW/EnrbylTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
