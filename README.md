@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enrbyltw&label=Profile%20views&color=0e75b6&style=flat" alt="enrbyltw" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enrbyltw" alt="enrbyltw" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enrbyltw&theme=darkhub" alt="enrbyltw" /></a> </p>
 
 - 🔭 I’m currently working on [calendar](https://github.com/EnrbylTW/calendar)
 
