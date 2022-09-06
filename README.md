@@ -27,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=enrbyltw&theme=dark" alt="enrbyltw" /></p>
 
-<p><img src="https://komarev.com/ghpvc/?username=enrbyltw&label=Profile%20views&color=blueviolet&style=flat" alt="enrbyltw" /> </p>
+<p><img align="center" src="https://komarev.com/ghpvc/?username=enrbyltw&label=Profile%20views&color=blueviolet&style=flat" alt="enrbyltw" /> </p>
 
 
 
