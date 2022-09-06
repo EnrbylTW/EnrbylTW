@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://t.me/vbncursed">Edvard</a></h1>
 <h3 align="center">UTMN student, IT developer from Russia 🇷🇺</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enrbyltw&label=Profile%20views&color=0e75b6&style=flat" alt="enrbyltw" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enrbyltw&theme=darkhub" alt="enrbyltw" /></a> </p>
 
 - 🔭 I’m currently working on [calendar](https://github.com/EnrbylTW/calendar)
@@ -28,6 +26,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enrbyltw&show_icons=true&theme=dark&locale=en" alt="enrbyltw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enrbyltw&theme=dark" alt="enrbyltw" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=enrbyltw&label=Profile%20views&color=0e75b6&style=flat" alt="enrbyltw" /> </p>
 
 
 
